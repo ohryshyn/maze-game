@@ -1,3 +1,3 @@
 # Code in Place final project
 
-A final project for Code in Place'20
+This project was designed for the final assignment of the Standford's Code in Place 2020 initiative.
